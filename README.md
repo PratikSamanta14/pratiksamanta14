@@ -85,7 +85,7 @@ An AI-driven system that detects respiratory diseases from cough and breath soun
 
 ---
 
-### 💰 CryptoOracle — Crypto Price Forecasting Platform
+### 💰 CryptoNova — Crypto Price Forecasting Platform
 > Linear Regression · Random Forest · LSTM · CoinGecko API · 94.2% Accuracy
 
 A comparative ML platform for real-time cryptocurrency price prediction. Three algorithms battle it out — and the best model wins. Integrated live market data from CoinGecko API.
